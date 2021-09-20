@@ -17,7 +17,6 @@ check the [Standard Error Responses](#standard-error-responses) for more context
 ​
 ​
 ## API methods:
-- GET
 - POST
 
 ## End Points:
